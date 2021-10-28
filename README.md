@@ -2,7 +2,7 @@
 Youtube-Views-Prediction merupakan salah satu tugas kelompok yang diberikan pada saat mengikuti bootcamp Data Science Rakamin Academy.
 
 ### Content
-YouTube menyimpan daftar video trending teratas di platform, untuk menentukan video trending teratas tahun ini, YouTube menggunakan kombinasi faktor termasuk mengukur interaksi pengguna (jumlah penayangan, pembagian, komentar, dan suka). 
+YouTube menyimpan daftar video trending teratas di platform, untuk menentukan video trending teratas, YouTube menggunakan kombinasi faktor termasuk mengukur interaksi pengguna (jumlah penayangan, pembagian, komentar, dan suka). 
 
 ### Goal
 membuat model untuk memprediksi penayangan video berdasarkan angka statistik dan atribut lainnya.
